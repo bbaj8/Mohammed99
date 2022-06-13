@@ -10,7 +10,7 @@ if os.path.exists("local.env"):
 load_dotenv()
 admins = {}
 SESSION_NAME = getenv("SESSION_NAME", "AgAC_pN8kmln80kEGbItfwnrAUfHQuIFP3-xp2zMtXmpkYY4Get1aRONcbAersZV7C-HEx_Uj8na6hfFN06hz1tLsSFOo2_45_wC8AnOlx7TcHhnqgVaq3Q0SkhINpM10pHWZYagiTkOyW-7sQWe5LwLHwM2iRSPTpyrCMVtVmsZ-_bxQWhU40FsO39C_aaOHmoVDzkWeMARwjK4DKRtLAnGgEndfQQFSi6mR3A1-k4zql5nh7yDTFHpNXu0Mol_dV4gwo3SdLYNzW5ea65Csx_zELGvz9lTm0nfVHf9AHI9sDoRyntQMSRKW0DkJEelIADQ8vsqt6U2_zaEsf-F66HyAAAAATLkklEA")
-BOT_TOKEN = getenv("BOT_TOKEN", "5304272902:AAEy8pTOvuhCVcoxLw5obTnfmZao0sKIKvs")
+BOT_TOKEN = getenv("BOT_TOKEN", "5304272902:AAHFEn0FGlrdtSmXQK2VIA0FJjidIRz3hA8 ")
 BOT_NAME = getenv("BOT_NAME", "Umk")
 API_ID = int(getenv("API_ID", "12429107"))
 API_HASH = getenv("API_HASH", "2c1096dfd767dfdfab961bb2fffe6be3")
